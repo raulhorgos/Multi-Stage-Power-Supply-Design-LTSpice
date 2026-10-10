@@ -1,0 +1,113 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\Student\Desktop\LM723\Lab8Lm723.asc
+Start Time: Mon Nov 18 17:11:18 2024
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = modified trap
+Limiting fall time of source i1 to 1.94289e-17
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+vernier = 0.5
+Gmin = 2.5711e-06
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 2.31043e-06
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.0104167
+Gmin = 2.28206e-06
+vernier = 0.0138889
+Gmin = 2.21387e-06
+vernier = 0.0185185
+vernier = 0.0246913
+Gmin = 2.10665e-06
+vernier = 0.0329218
+vernier = 0.0438957
+Gmin = 1.9475e-06
+vernier = 0.0585276
+Gmin = 1.71488e-06
+vernier = 0.0780367
+vernier = 0.104049
+Gmin = 1.39355e-06
+vernier = 0.138732
+vernier = 0.184976
+Gmin = 1.00505e-06
+vernier = 0.246634
+Gmin = 5.94426e-07
+vernier = 0.328846
+vernier = 0.438461
+Gmin = 2.55107e-07
+vernier = 0.584614
+vernier = 0.779486
+Gmin = 6.89331e-08
+vernier = 1
+Gmin = 9.2741e-09
+Gmin = 9.95799e-10
+Gmin = 1.06923e-10
+Gmin = 1.14808e-11
+Gmin = 1.23274e-12
+Gmin = 1.32364e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Changing Tseed to 9.76562e-09
+Heightened Def Con from 1.09863e-08 ++to 1.19868e-08
+Heightened Def Con from 1.19868e-08 to 1.19868e-08
+Heightened Def Con from 1.19868e-08 to 1.19868e-08
+Heightened Def Con from 1.19868e-08 +++++++++++to 1.19868e-08
+Heightened Def Con from 1.19868e-08 +to 1.19868e-08
+Heightened Def Con from 1.19868e-08 +++++++++++++++to 1.19871e-08
+Heightened Def Con from 1.19871e-08 +++++++++to 1.29871e-08
+Heightened Def Con from 1.29871e-08 ++to 1.2989e-08
+Heightened Def Con from 1.29891e-08 to 1.29913e-08
+Heightened Def Con from 1.29913e-08 to 1.29915e-08
+Heightened Def Con from 1.29915e-08 to 1.39935e-08
+Heightened Def Con from 1.39974e-08 +to 1.41224e-08
+Heightened Def Con from 1.4123e-08 ++to 1.71249e-08
+Heightened Def Con from 1.71251e-08 to 1.71256e-08
+Heightened Def Con from 1.71256e-08 ++to 1.71258e-08
+Heightened Def Con from 1.71258e-08 +to 2.01258e-08
+Heightened Def Con from 2.01263e-08 to 2.01419e-08
+Heightened Def Con from 2.01419e-08 ++++++++++++++++++++++++++to 2.01419e-08
+Heightened Def Con from 2.01419e-08 to 2.01419e-08
+Heightened Def Con from 2.01419e-08 to 2.01419e-08
+Heightened Def Con from 2.01419e-08 ++++++to 2.01419e-08
+Heightened Def Con from 2.01419e-08 +++++++++++++++++++++to 2.01419e-08
+Heightened Def Con from 2.01419e-08 to 2.01419e-08
+Heightened Def Con from 2.01419e-08 to 2.01419e-08
+Heightened Def Con from 2.01419e-08 +++++++++++++++++++++to 2.01419e-08
+Heightened Def Con from 2.01419e-08 to 2.01419e-08
+Heightened Def Con from 2.01419e-08 to 2.01419e-08
+Heightened Def Con from 2.01419e-08 ++++++++++++++++++++++++++++to 2.01419e-08
+Heightened Def Con from 2.01419e-08 ++++++++++++++++++++++++++++to 2.01419e-08
+Heightened Def Con from 2.01419e-08 ++++++++++++++++++++++++++to 2.01419e-08
+Heightened Def Con from 2.01419e-08 +to 2.01419e-08
+Heightened Def Con from 2.01419e-08 to 2.01419e-08
+Heightened Def Con from 2.01419e-08 to 2.01419e-08
+Heightened Def Con from 2.01419e-08 to 2.01419e-08
+Heightened Def Con from 2.01419e-08 to 2.01419e-08
+Heightened Def Con from 2.01419e-08 to 2.01419e-08
+Heightened Def Con from 2.01419e-08 ++++++++++++++++++++++++++to 2.01419e-08
+Heightened Def Con from 2.01419e-08 +++++++++++++++++++++++++++++++++++++++to 2.0267e-08
+Heightened Def Con from 2.0267e-08 +++++++++++++++++++++++++++++to 2.1392e-08
+Heightened Def Con from 2.13921e-08 to 2.15173e-08
+Heightened Def Con from 2.15178e-08 to 2.17697e-08
+Heightened Def Con from 2.17736e-08 to 2.21486e-08
+Heightened Def Con from 2.23802e-08 to 2.53802e-08
+Total elapsed time: 0.300 seconds.
+
