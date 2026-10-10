@@ -1,16 +1,16 @@
-# Design and Analysis of a Flyback Converter
+# Multi-Stage Power Supply Design | LTSpice 
 
-The work completed for this project contains the following:
--Designed a Flyback converter topology capable of handling a wide AC input range (160V
-to 230V RMS).
+Designed a multi-output power supply converting 220V AC (50Hz) into three regulated DC
+outputs: 12V, 5V, and 3.3V. The calculus was done by using SMath Solver for efficient and
+fast computations and the implementation of the whole circuit was done in LTSpice.
 
--Used PTC Mathcad to calculate maximum input power, the primary inductance, Snubber
-circuit, the characteristics of the transformer (such as the core, windings, air gap),
-maximum drain-source voltage stress and peak primary currents in order to choose the
-most suitable components.
+-Implemented a full-bridge rectifier with capacitive filtering, utilizing 7000µF capacitors to
+minimize voltage ripple.
 
--Control Loop & Feedback Design in PSIM.
+-Developed a discrete Linear Regulator using a BJT transistor and Zener reference to
+provide a 12V/500mA output.
 
--Validated the design through simulation to verify component values and loop stability.
+-Integrated an IC for the 5V output with a proper heat sink.
 
--Design of the electrical schematic and PCB implementation using Altium Designer
+-Designed a Buck Converter with a closed-loop control system to step down voltage to
+3.3V/2A, operating at 100kHz with >90% target efficiency
